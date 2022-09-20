@@ -1,0 +1,14 @@
+13
+Alytus 1419 50000
+Anyksciai 1222 23000
+Birstons 1240 4100
+Druskininkai 1140 15000
+Elektrenai 1412 24000
+Ignalina 1175 15000
+Jonava 1461 42000
+Joniskis 1239 21000
+Jurbarkas 1228 25000
+Kaunas 1619 286000
+Kedainiai 1502 45000
+Vilnius 1797 552000
+Zarasai 1073 15000
